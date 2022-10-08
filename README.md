@@ -10,7 +10,7 @@
 
 <div align='center'>
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=MohamedBoutaieb)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=MohamedBoutaieb&theme=flat)
   
   <div> 
 <!---
