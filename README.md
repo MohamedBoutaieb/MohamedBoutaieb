@@ -1,6 +1,6 @@
 <h1 align='center'>👋 Hi, I’m Mohamed Boutaieb</h1> 
-<hr> </hr>
-<h2 style='text-align:center;'>I am a Software Engineer</h2>
+
+<h2 lign='center'>I am a Software Engineer</h2>
 
 ![](https://komarev.com/ghpvc/?username=MohamedBoutaieb&color=green)
 
